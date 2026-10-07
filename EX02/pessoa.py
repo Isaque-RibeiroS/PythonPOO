@@ -24,7 +24,6 @@ class Pessoa:
 
     def boas_vindas(self):
         print("\033[32mBem-vindo a disciplina de {}, {}!\033[0m".format(self.disciplina, self.nome))
-        return
 
 # Professor
 
@@ -64,4 +63,3 @@ class Aluno(Pessoa):
         print("E-mail: {}".format(self.email))
         print("Disciplina: {}".format(self.disciplina))
         print("Matricula: {}".format(self.matricula))
-        return
