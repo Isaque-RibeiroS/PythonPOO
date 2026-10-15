@@ -26,7 +26,7 @@ Também possui comandos para caso de erros, como:
 - Prevenção de respostas não correspondentes a instrução do menu principal.
 - Não mostrar catálogo caso não haja produtos.
 
-## EX02 (Aluno)
+## EX02 (Matricula)
 ### Classe Pessoa (SuperClasse):
 **Atributos:** nome / email / disciplina
 
